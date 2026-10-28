@@ -8,4 +8,4 @@ frontend freelance en proyecto comercial para Loop Smith (Security Strong); sopo
 ## Proyectos: ## 
 [Haka Nails](https://github.com/PeraltaMartin13/Haka-Nails-LandingPage) · [Videojuego Wollok](https://github.com/PeraltaMartin13/tp-final-wollok-game-compila-y-reza)
 ## Contacto: ## 
-[LinkedIn](https://www.linkedin.com/in/martin-peralta1313/) - Gmail: martinperaltasmurra13@gmail.com - 
+[LinkedIn](https://www.linkedin.com/in/martin-peralta1313/) - martinperaltasmurra13@gmail.com
