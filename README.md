@@ -1,16 +1,11 @@
-## Hi there 👋
+# ¡Hola! Soy Martín Peralta 👋
 
-<!--
-**PeraltaMartin13/PeraltaMartin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante avanzado de Programación en UNAHUR. Me interesa el desarrollo web, la resolución de problemas técnicos y la calidad del software.
+## Stack: ## 
+JavaScript · React · Next.js · TypeScript · Tailwind CSS · Git · SQL (fundamentos)
+## Experiencia: ## 
+frontend freelance en proyecto comercial para Loop Smith (Security Strong); soporte técnico a usuarios y tareas administrativas.
+## Proyectos: ## 
+[Haka Nails](https://github.com/PeraltaMartin13/Haka-Nails-LandingPage) · [Videojuego Wollok](https://github.com/PeraltaMartin13/tp-final-wollok-game-compila-y-reza)
+## Contacto: ## 
+[LinkedIn](https://www.linkedin.com/in/martin-peralta1313/) - Gmail: martinperaltasmurra13@gmail.com - 
